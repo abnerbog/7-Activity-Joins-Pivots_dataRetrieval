@@ -1,10 +1,9 @@
 ---
 title: "Chapter 7: ACTIVITY: Joins Pivots dataRetrieval"
-date: today
-author: JP Gannon
-format: gfm
-execute:
-  enabled: true
+date: 2026-03-23
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/7-Activity-Joins-Pivots_dataRetrieval
 ---
 
 # ACTIVITY: Joins Pivots dataRetrieval

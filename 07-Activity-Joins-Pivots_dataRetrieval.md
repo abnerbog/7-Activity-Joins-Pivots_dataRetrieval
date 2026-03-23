@@ -1,6 +1,11 @@
-# Chapter 7: ACTIVITY: Joins Pivots dataRetrieval
-JP Gannon
-2026-02-12
+---
+title: 'Chapter 7: ACTIVITY: Joins Pivots dataRetrieval'
+date: 2026-03-23T00:00:00.000Z
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/7-Activity-Joins-Pivots_dataRetrieval
+---
+
 
 # ACTIVITY: Joins Pivots dataRetrieval
 
