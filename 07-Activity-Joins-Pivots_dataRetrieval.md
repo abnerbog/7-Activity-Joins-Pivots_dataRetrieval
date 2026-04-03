@@ -3,7 +3,27 @@ title: 'Chapter 7: ACTIVITY: Joins Pivots dataRetrieval'
 date: 2026-03-23T00:00:00.000Z
 authors:
   - id: jpgannon
+    name: JP Gannon
+    email: jpgannon@vt.edu
+    github: jpgannon
+    orcid: 0000-0002-4595-3214
+    corresponding: true
+    url: https://jpgannon.github.io/
+    affiliations:
+      - vt-tech
+affiliations:
+  - id: vt-tech
+    name: Virginia Tech
+    url: https://www.vt.edu/
+subject: Courseware
+doi: https://doi.org/10.4211/hs.3219ef11b1bf4c7b9143c303149caf6c
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/3219ef11b1bf4c7b9143c303149caf6c/
 github: https://github.com/VT-Hydroinformatics/7-Activity-Joins-Pivots_dataRetrieval
+downloads:
+  - file: 07-Activity-Joins-Pivots_dataRetrieval.md
+  - file: 07-Activity-Joins-Pivots_dataRetrieval.pdf
 ---
 
 
